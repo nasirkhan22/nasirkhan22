@@ -7,6 +7,7 @@ I'm Nasir Khan, a Full Stack Web Developer and a tech blogger. I Spend most of t
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/nasir-khan-592b971)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-khan-592b971b2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nasirwaheed999@gmail.com)
 <!-- (https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) -->
 <!-- TODO: Add last video link -->
 
