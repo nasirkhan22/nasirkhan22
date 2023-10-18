@@ -12,7 +12,7 @@ I'm Nasir Khan, a Full Stack Web Developer and a tech blogger. I Spend most of t
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @jmm-technologies
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit -m "issues resolved🤔"`
 - 😄 I believe in learning by building and being consistent in what I do.
 - 🤔 When I'm not coding, I am probably exploring new concepts, or thinking about my next project.
 - ⚡ Fun fact: I play games and go to the GYM very often.
